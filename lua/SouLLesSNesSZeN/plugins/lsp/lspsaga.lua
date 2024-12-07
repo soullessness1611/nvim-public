@@ -1,6 +1,6 @@
 return {
 	"nvimdev/lspsaga.nvim",
-	event = "InsertEnter",
+	event = "VeryLazy", -- "InsertEnter",
 	config = function()
 		local lspsaga = require("lspsaga")
 		lspsaga.setup({ -- defaults ...
@@ -98,6 +98,6 @@ return {
 		vim.keymap.set("n", "[d", "<cmd>Lspsaga diagnostic_jump_prev<CR>", opts) -- jump to previous diagnostic in buffer
 		vim.keymap.set("n", "]d", "<cmd>Lspsaga diagnostic_jump_next<CR>", opts) -- jump to next diagnostic in buffer
 		vim.keymap.set("n", ";.", "<cmd>Lspsaga hover_doc<CR>", opts) -- show documentation for what is under cursor
-		vim.keymap.set("n", "<A-t>", "<cmd>Lspsaga term_toggle<CR>", opts) -- open terminal in buffer (if supported)
+		vim.keymap.set("n", "<S-t>", "<cmd>Lspsaga term_toggle<CR>", opts) -- open terminal in buffer (if supported)
 	end,
 }

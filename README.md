@@ -1,16 +1,36 @@
 # SouLLesSNesSZeN's Nvim config (public)
 This is my Neovim configuration repository.
 (These configs migrated from packer to lazyvim)
-## ScreenShot
-![iterm2 and tmux screenshot](./images/image02.png)
-![iterm2 and tmux screenshot](./images/image04.png)
-![iterm2 and tmux screenshot](./images/image05.png)
-![iterm2 and tmux screenshot](./images/image06.png)
+
+## Screenshot
+<table width="100%">
+  <tr>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/soullessness1611/nvim-public/blob/main/images/image02.png?raw=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github.com/soullessness1611/nvim-public/blob/main/images/image04.png?raw=true" />
+    </td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/soullessness1611/nvim-public/blob/main/images/image05.png?raw=true"/>
+    </td>
+    <td width="50%">
+      <img src="https://github.com/soullessness1611/nvim-public/blob/main/images/image06.png?raw=true" />
+    </td>
+  </tr>
+</table>
+
 ## Files Structure
 ![File Structure](./images/image07.png)
 ## Requirements
-- Neovim >= 0.9.0
-- Git >= 2.29.0
+- Neovim
+- Git
 - LazyGit
 - LazyVim
 - ripgrep
@@ -18,7 +38,6 @@ This is my Neovim configuration repository.
 - fzf
 ## Terminal and Shell
 - iTerm2
-- Alacritty
 - bash
 - zsh
 - fish
@@ -26,29 +45,40 @@ This is my Neovim configuration repository.
 - Neovide (UI Integrated with Neovim)
 ## Installations
 ```zsh
-git clone --recursive https://github.com/soullessness1611/nvim-public.git ~/.config/ && \
+cd ~/.config/
+git clone --recursive https://github.com/soullessness1611/nvim-public.git && \
 	mv ~/.config/nvim-public ~/.config/nvim
+
+nvim
 ```
 ## Components list
 - Colorschemes
-	- Catppuccin
-	- Solarized-osaka
+	- solarized-osaka
 - Integrated
 	- Neovide
 - Plugins
 	- ai
-		- Copilot
+		- copilot
+		![copilot | 550x325](./images/copilot.png)
 	- coding
 		- action-preview
+		![action-preview | 550x325](./images/code-action-preview.png)
 		- code-runner
+		![code-runner | 550x325](./images/code-runner.png)
 		- codesnap
+		![codesnap | 550x325](./images/codesnap.png)
 		- colorizer
+		![colorizer | 550x325](./images/colorizer.png)
 		- colortils
+		![colortils | 550x325](./images/colortils.png)
 		- document-color
 		- null-ls
 		- nvim-cmp
+		![cmp | 550x325](./images/cmp.png)
 		- nvim-treesitter
+		![treesitter | 550x325](./images/treesitter.png)
 		- quick-code-runner
+		![quick-code-runner | 550x325](./images/quick-code-runner.png)
 		- tailwindcss-solorizer-cmp
 		- TreeSJ
 	- Debug
@@ -60,13 +90,18 @@ git clone --recursive https://github.com/soullessness1611/nvim-public.git ~/.con
 		- format-on-save
 		- git-conflict
 		- hop
+		![hop1 | 550x325](./images/hop1.png)
 		- incRename
+		![incRename |550x325](./images/incRename.png)
 		- moveline
-		- nvim-surround.lua
-		- reactive.lua
-		- telescope.lua
-		- todo-comment.lua
+		- nvim-surround
+		- reactive
+		- telescope
+		![telescope | 550x325](./images/telescope.png)
+		- todo-comment
+		![todo-comment | 550x325](./images/todo-comment.png)
 		- ufo.lua
+		![ufo | 550x325](./images/ufo.png)
 	- LSP
 		- lsp-config
 		- mason
@@ -95,5 +130,4 @@ git clone --recursive https://github.com/soullessness1611/nvim-public.git ~/.con
 		- markdown-preview
 		- ssr
 		- searchbox
-		- surround
 		- wakatime
