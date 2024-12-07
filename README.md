@@ -106,25 +106,39 @@ nvim
 		- lsp-config
 		- mason
 		- lspsaga
+		![lspsaga_hoverdoc | 550x325](./images/lspsaga_hover_doc.png)
 	- UI
 		- barbecue
+		![barbecue | 550x325](./images/barbecue.png)
 		- bufferline
-		- hlchunk
+		![bufferline | 550x325](./images/bufferline.png)
+		- hlchunk + indent_blankline
+		![hlchunk_indentBlankline | 550x325](./images/hlchunk.png)
 		- incline
-		- indent-blankline
+		![incline | 550x325](./images/incline.png)
 		- lualine
+		![lualine | 550x325](./images/lualine.png)
 		- neo-tree
+		![neo-tree | 550x325](./images/neo-tree.png)
 		- noice
+		![noice | 550x325](./images/noice.png)
 		- nvim-tree
 		- outline
+		![outline | 550x325](./images/outline.png)
 		- which-key
-		- zen
-		- twilight
+		![which-key | 550x325](./images/which-key.png)
+		- zen + twilight
+		![zen_twilight | 550x325](./images/zen-twilight.png)
 	- Utilities
 		- bracey
 		- cellular-automaton
+		![cellular-automaton | 550x325](./images/cellular-automaton.png)
 		- diffview
-		- git
+		![diffview | 550x325](./images/diffview.png)
+		- gitsign
+		![gitsign | 550x325](./images/gitsign.png)
+		- lazygit
+		![lazygit | 550x325](./images/lazygit.png)
 		- goto-preview
 		- live-server
 		- markdown-preview
