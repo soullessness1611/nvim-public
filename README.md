@@ -1,7 +1,29 @@
 # SouLLesSNesSZeN's Neovim configurations
-This is my Neovim configuration repository.
-(These configs migrated from packer to lazyvim)
+Here’s my personal **Neovim configurations** customization that I’ve tailored based on my workflow and preferences. I hope it can be helpful to others looking for inspiration or a starting point! 🚀
 
+This dotfile includes:
+
+- **Key Mappings** for a smoother and more efficient editing experience.
+> **WARNING!!!**
+> Please be cautious about this; you should adapt and use it in your own style.
+- Essential **Plugins** to supercharge productivity.
+- A clean **Theme and UI** designed for better focus and readability.
+
+💡 **Why Use a Dotfile?**  
+Dotfiles make it easy to set up Neovim quickly, maintain consistency across machines, and share configurations with others via GitHub or a repository.
+
+If you’re interested, feel free to adapt, tweak, or learn from it to fit your own workflow! 🎊  
+👉 [My Dotfiles](https://github.com/soullessness1611/dotfiles-zen-macos) (I’m currently customizing it and will be public it soon.)
+
+I hope this serves as both a helpful resource and inspiration for your own Neovim journey! ✨
+
+##  Hardware
+- Laptop: [Macbook Air](https://www.apple.com/macbook-air/) (13.3-inch, 2020, Apple M1 Chip, 16GB RAM)
+- Mouse: [Magic Mouse](https://www.apple.com/th-en/shop/product/MXK53ZA/A/magic-mouse-usb%E2%80%91c-white-multi-touch-surface?fnode=90e9bfec3403e18e4a7721c64d7f67b4f3110412925cec7935ea474c2ff39464622d157d66a84d3d40a6792e406a7993fe63ea2fb8b3baa488bb1fa3bc0ed5991f361fe76756da9fe2e0cb769090d2a529574caafaf4ff60d78549ede16044dc792389f6b98b3200756145732d0a3d05)
+ **Optional:**
+- Keyboard
+	- [Keychron K2 Pro](https://www.keychron.co.th/products/keychron-k2-pro-qmk-via-wireless-mechanical-keyboard?srsltid=AfmBOorPPsshLcxmCysRD-l9S0UDuUJwJtEbnHhnu0mqXSJ4HXsHkCqm)
+	- [Keychron K3 Max](https://www.keychron.co.th/products/keychron-k3-max-qmk-via-wireless-custom-mechanical-keyboard?srsltid=AfmBOoqdko_2Q5-Aasa9IjklPZukCABDBLXWdOoHyKPNeBjC8nCx-tBI)
 ## Screenshot
 <table width="100%">
   <tr>
