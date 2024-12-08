@@ -20,8 +20,8 @@ I hope this serves as both a helpful resource and inspiration for your own Neovi
 
 ##  Hardware
 - Laptop: [Macbook Air](https://www.apple.com/macbook-air/) (13.3-inch, 2020, Apple M1 Chip, 16GB RAM)
-- Mouse: [Magic Mouse](https://www.apple.com/th-en/shop/product/MXK53ZA/A/magic-mouse-usb%E2%80%91c-white-multi-touch-surface?fnode=90e9bfec3403e18e4a7721c64d7f67b4f3110412925cec7935ea474c2ff39464622d157d66a84d3d40a6792e406a7993fe63ea2fb8b3baa488bb1fa3bc0ed5991f361fe76756da9fe2e0cb769090d2a529574caafaf4ff60d78549ede16044dc792389f6b98b3200756145732d0a3d05) (**Optional**)
-- Keyboard (**Optional**)
+- Mouse: [Magic Mouse](https://www.apple.com/th-en/shop/product/MXK53ZA/A/magic-mouse-usb%E2%80%91c-white-multi-touch-surface?fnode=90e9bfec3403e18e4a7721c64d7f67b4f3110412925cec7935ea474c2ff39464622d157d66a84d3d40a6792e406a7993fe63ea2fb8b3baa488bb1fa3bc0ed5991f361fe76756da9fe2e0cb769090d2a529574caafaf4ff60d78549ede16044dc792389f6b98b3200756145732d0a3d05) (Optional)
+- Keyboard (Optional)
 	- [Keychron K2 Pro](https://www.keychron.co.th/products/keychron-k2-pro-qmk-via-wireless-mechanical-keyboard?srsltid=AfmBOorPPsshLcxmCysRD-l9S0UDuUJwJtEbnHhnu0mqXSJ4HXsHkCqm)
 	- [Keychron K3 Max](https://www.keychron.co.th/products/keychron-k3-max-qmk-via-wireless-custom-mechanical-keyboard?srsltid=AfmBOoqdko_2Q5-Aasa9IjklPZukCABDBLXWdOoHyKPNeBjC8nCx-tBI)
 ## Screenshot
@@ -92,7 +92,7 @@ nvim
 	- coding
 		- [action-preview](https://github.com/aznhe21/actions-preview.nvim)
 		![action-preview | 550x325](./images/code-action-preview.png)
-		- code-runner
+		- [code-runner](https://github.com/CRAG666/code_runner.nvim)
 		![code-runner | 550x325](./images/code-runner.png)
 		- [codesnap](https://github.com/mistricky/codesnap.nvim)
 		![codesnap | 550x325](./images/codesnap1.png)
@@ -130,7 +130,7 @@ nvim
 		![telescope | 550x325](./images/telescope.png)
 		- todo-comment
 		![todo-comment](./images/todo-comment.png)
-		- ufo.lua
+		- ufo
 		![ufo | 550x325](./images/ufo.png)
 	- LSP
 		- lspconfig
