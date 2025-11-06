@@ -151,8 +151,8 @@ nvim
 		![lualine | 550x325](./images/lualine.png)
 		- neo-tree + nvim-tree
 		![neo-tree | 550x325](./images/neo-tree.png)
-		- noice
-		![noice | 550x325](./images/noice.png)
+		- nvim-notify
+		![nvim-notify | 550x325](./images/nvim-notify.png)
 		- outline
 		![outline | 550x325](./images/outline.png)
 		- which-key
